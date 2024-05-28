@@ -47,6 +47,6 @@
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />&nbsp
 </div>
 <br>
-<a><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eungyeol41&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
+<a><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aejicheon&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
     
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=F6CEF5)
