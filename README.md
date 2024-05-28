@@ -41,7 +41,6 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
 
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username='user ID'&layout=compact" /></a> 
-
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username='user ID'" /></a>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
