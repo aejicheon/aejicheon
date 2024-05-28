@@ -28,10 +28,6 @@
 
 <a><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eungyeol41&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
 
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=F6CEF5)
-
-
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a3baff,100:febef0&height=180&text=Hello%20I'm%20CheonAeji&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
@@ -60,3 +56,4 @@
            /> </div> 
     </div>
     
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=F6CEF5)
