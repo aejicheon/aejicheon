@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
 
-<a><img align="center" style="height:180px" src="https://camo.githubusercontent.com/c77619ebd2f8a43cc9dd1376ad9a149fd0c15c5c2b458499b67afd463b322c74/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d45756e6779656f6c3431266c61796f75743d636f6d7061637426686964655f626f726465723d747275652662675f636f6c6f723d33302c3931656165342c383641384537267469746c655f636f6c6f723d66666626746578745f636f6c6f723d666666" /></a> 
+<a><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eungyeol41&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
+
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=F6CEF5)
