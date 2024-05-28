@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Eungyeol%20%20&height=200&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F6CEF5&text=%20CheonAeji%20%20&height=200&fontSize=90&fontColor=ffffff)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -43,4 +43,4 @@
 
 <a href="https://github.com/Eungyeol41"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eungyeol41&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=F6CEF5)
