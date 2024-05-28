@@ -50,6 +50,13 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
 </div>
     </div>
+
+<div align= "center"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=CheonAeji&bg_color=60,c1ffbd,fdfebe&title_color=ffffff&text_color=ffffff"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheonAeji&layout=compact&bg_color=60,c1ffbd,fdfebe&title_color=ffffff&text_color=ffffff"
+           /> </div> 
+    </div>
+    
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=CheonAeji&bg_color=60,c1ffbd,fdfebe&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheonAeji&layout=compact&bg_color=60,c1ffbd,fdfebe&title_color=ffffff&text_color=ffffff"
