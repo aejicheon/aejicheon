@@ -36,7 +36,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 저는 배우고 경험하는 것을 항상 도전하는 개발자입니다. </div> 
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠 Tools 🛠 </h2> <br> 
     <div align="center">
   <img src="https://img.shields.io/badge/HTML-pink?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/CSS3-blue?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp
