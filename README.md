@@ -7,14 +7,18 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white">
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white">
-          <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
-          </div>
-    </div>
+      <div align="center">
+  <img src="https://img.shields.io/badge/HTML-pink?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/CSS3-blue?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/C-yellow?style=for-the-badge&logo=c&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
+
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:a01091433085@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:a01091433085@gmail.com"> </a>
