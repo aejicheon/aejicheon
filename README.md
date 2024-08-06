@@ -57,8 +57,8 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aejicheon&layout=compact&bg_color=30,91eae4,86A8E7&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
-    <div>
-        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aeji0206)](https://solved.ac/aeji0206/)
- </div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aeji0206)](https://solved.ac/aeji0206/)
+
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:ffbdd7,100:70ffee)
