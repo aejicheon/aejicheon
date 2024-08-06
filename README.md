@@ -57,4 +57,4 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aejicheon&layout=compact&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
-    
+    ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:ffbdd7)
