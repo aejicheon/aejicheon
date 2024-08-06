@@ -58,7 +58,7 @@
            /> </div> 
     </div>
     <div>
-        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aeji0206)](https://solved.ac/백준아이디/)
+        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aeji0206)](https://solved.ac/aeji0206/)
  </div>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:ffbdd7,100:70ffee)
