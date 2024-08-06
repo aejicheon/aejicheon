@@ -58,4 +58,4 @@
            /> </div> 
     </div>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:ffbdd7)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:ffbdd7,100:70ffee)
