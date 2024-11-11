@@ -3,7 +3,9 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요. 신입 개발자 천애지입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 저는 배우고 경험하는 것을 항상 도전하는 개발자입니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 저는 배우고 경험하는 것을 항상 도전하는 개발자입니다. </div>
+    - 이름 : 천애지
+    - 소속 : 한림대학교 정보과학대학 소프트웨어학부 콘텐츠IT 전공/ 빅데이터 복수전공
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
