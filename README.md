@@ -67,6 +67,15 @@
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinneu&layout=compact)-->
 
 <h2 align="center">  :running: Activities </h2>
+<div>
+    <h1>교내 활동</h1>
+    <ul>
+        <li>2023 멀티플렉스 c언어 멘토링 멘토진행</li>
+        <li>2023 소프트웨어학부 제 5대 콘텐츠IT 학생회 'Dream' 총부부장</li>
+        <li>2024 소프트웨어학부 제 6대 콘텐츠IT 학생회 'Clear' 부학회장</li>
+        <li>2024 씨애랑 학술동아리 운영진 총부국장</li>
+    </ul>
+</div>
 
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🏅 Stats</h2>
