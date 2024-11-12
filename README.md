@@ -94,7 +94,10 @@
         <li>기술스택 : Unreal Engine, BluePrint, C++</li>
         <li>구현부분 :
             <ul>
-                <li>맵 디자인,개발</li>
+                <li>맵 ui/ux 디자인, 맵 관련 로직 구현</li>
+                <li>게임 사운드 로직구현</li>
+                <li>캐릭터 애니메이션 blueprint, c++ 로직 구현</li>
+                <li>몬스터 소환 + 몬스터 애니메아션 로직 구현</li>
             </ul>
         </li>
     </ul>
