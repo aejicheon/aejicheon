@@ -91,8 +91,11 @@
         <li>2023-2 게임프로그래밍 수업중 기말 프로젝트로 Unreal Engine을 사용해 판타지 슈팅 FPS 게임을 제작했습니다.</li>
         <li>기간 : 2023.10 ~ 2023.12</li>
         <li>게임 내용 : 몬스터로 점령된 마을을 지나 포탈을 찾아 탈출해야한다. 가지고 있는 총으로 조준하여 몬스터를 처치하여 죽지 않고 탈출해라</li>
-        <li>r기술스택 : Unreal Engine, BluePrint, C++</li>
-        <li>구현부분 : <li>맵 디자인,개발</li>
+        <li>기술스택 : Unreal Engine, BluePrint, C++</li>
+        <li>구현부분 :
+            <ul>
+                <li>맵 디자인,개발</li>
+            </ul>
         </li>
     </ul>
     <br>
