@@ -236,7 +236,7 @@
     </a>
 </div>
 
-<img src="https://github.com/user-attachments/assets/85507c79-a61d-47cc-9edd-ce7f2f770393" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/85507c79-a61d-47cc-9edd-ce7f2f770393" width="300" height="250">
 
 ![식단](https://github.com/user-attachments/assets/85507c79-a61d-47cc-9edd-ce7f2f770393) {: width="100%" height="100%"}
 ![시간표](https://github.com/user-attachments/assets/d8715b49-40c4-43e1-8753-6a2037653e95)
