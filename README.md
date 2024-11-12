@@ -78,7 +78,10 @@
     </ul>
 </div>
 
-<h2> :computer: Projects </h2>
+<h2 align="center"> :computer: Projects </h2>
+<ul>
+    <li></li>
+</ul>
 
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🏅 Stats</h2>
