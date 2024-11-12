@@ -81,7 +81,21 @@
 <h2 align="center"> :computer: Projects </h2>
 <div>
     <h3>🍎 2024 최강애지팀</h3> <br>
-    <h3>🍊 2024 5inQ</h3> <br> 
+    <h3>🍊 Team>5inQ (RPG 게임) {LAB X}</h3> <br>
+    <ul> 
+        <li>팀을 구성해 하반기 동안 Unity Engine을 사용해 스토리가 있는 RPS게임을 개발하였습니다.</li>
+        <li>기간 : 2024.07 ~ 진행중</li>
+        <li>게임내용 : 실험체 A, B, C가 로봇들에게 실험을 당하는 자신에게 의문을 품고 </li>
+        <li>기술스택 : Unity Engine, c#</li>
+        <li>구현부분 :
+            <ul>
+                <li>캐릭터 B의 애니메이터 + 애니메이션 로직 구현</li>
+                <li>캐릭터 기본 공격 + 특별 공격 애니메이션, 로직 구현</li>
+                <li>맵 디자인 후 Tile Map 구성</li>
+            </ul>
+        </li>
+    </ul>
+    <br>
     <h3>🍋 한림대학교 공식앱 리뉴얼</h3> <br>
     <ul> 
         <li>2024-1 HCI수업 중 프로젝트로 Pigma를 사용해 현재 존재하는 앱의 ui/ux를 다시 구성.</li>
