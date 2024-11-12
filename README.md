@@ -13,6 +13,7 @@
     <ul>
         <li><h8>이름 : 천애지</h8></li>
         <li>소속 : 한림대학교 정보과학대학 소프트웨어학부 콘텐츠IT 전공/ 빅데이터 복수전공</li>
+        <li><a href=mailto:aeji4123@naver.com>aeji4123@naver.com</a></li>
     </ul>
 </div>
 
