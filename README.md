@@ -126,7 +126,7 @@
         </li>
     </ul>
     <br>
-    <h3>🥦 실시간 주식 시뮬레이션</h3> <br>
+    <h3>🥦 실시간 주식 시뮬레이션   [<a href="https://github.com/aejicheon/Stock-Simulation-Game">깃허브</a>]</h3> <br>
     <ul> 
         <li>2023-2 캡스톤디자인 수업 중 프로젝트로 Unity Engine, 을 사용해 가상화폐를 사용해 실시간 주식을 연습해볼 수 있는 시뮬레이션 게임</li>
         <li>기간 : 2023.09 ~ 2023.12</li>
@@ -144,7 +144,7 @@
         </li>
     </ul>
     <br>
-    <h3>🐋 Unity Engine를 사용한 나만의 AR 계절 만들어 사진찍는 앱</h3> <br>
+    <h3>🐋 Unity Engine를 사용한 나만의 AR 계절 만들어 사진찍는 앱  [<a href="https://github.com/aejicheon/ARProject">깃허브</a>]</h3> <br>
     <ul> 
         <li>2023-2 증강현실 기초 및 실습 수업중 기말 프로젝트로 Unity Engine을 사용해 나만의 AR Android 앱 만들기</li>
         <li>기간 : 2023.10 ~ 2023.12</li>
@@ -158,7 +158,7 @@
         </li>
     </ul>
     <br>
-    <h3>🍇 Unreal Engine을 사용한 판타지 마을에서의 FPS슈팅 게임</h3> <br>
+    <h3>🍇 Unreal Engine을 사용한 판타지 마을에서의 FPS슈팅 게임   [<a href="https://github.com/aejicheon/MagicShootGame">깃허브</a>]</h3> <br>
     <ul>
         <li>2023-2 게임프로그래밍 수업중 기말 프로젝트로 Unreal Engine을 사용해 판타지 슈팅 FPS 게임을 제작했습니다.</li>
         <li>기간 : 2023.10 ~ 2023.12</li>
@@ -174,7 +174,7 @@
         </li>
     </ul>
     <br>
-    <h3>🍉 멸종위기 동물을 소개하는 웹</h3> <br>
+    <h3>🍉 멸종위기 동물을 소개하는 웹  [<a href="https://github.com/aejicheon/WebDesign">깃허브</a>]</h3> <br>
     <ul>
         <li>2023-1 웹프로그래밍 수업중 기말 프로젝트로 Html를 사용해 웹 사이트를 제작했습니다.</li>
         <li>기간 : 2023.04 ~ 2023.06</li>
@@ -190,7 +190,7 @@
             </ul>
     </ul>
     <br>
-    <h3>🥕 Unity Engine를 사용한 장애풀을 피해 목표 지점에 도달하는 캐주얼 게임</h3><br>
+    <h3>🥕 Unity Engine를 사용한 장애풀을 피해 목표 지점에 도달하는 캐주얼 게임   [<a href="https://github.com/aejicheon/ComputerGraphicsProject">깃허브</a>]</h3><br>
     <ul>
         <li>2023-1 컴퓨터 그래픽스 수업중 기말 프로젝트로 Android Studio를 사용해 캐주얼 게임을 제작했습니다.</li>
         <li>기간 : 2023.04 ~ 2023.06</li>
