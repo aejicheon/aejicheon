@@ -7,6 +7,10 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
         저는 배우고 경험하는 것을 항상 도전하는 개발자입니다.
     </div>
+    <ul>
+        <li>이름 : 천애지</li>
+        <li>소속 : 한림대학교 정보과학대학 소프트웨어학부 콘텐츠IT 전공/ 빅데이터 복수전공</li>
+    </ul>
 </div>
 
 <div align="center">
