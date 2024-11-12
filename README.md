@@ -95,7 +95,7 @@
         </li>
     </ul>
     <br>
-    <h3>🍊 Team>5inQ (RPG 게임) {LAB X}</h3> [<a href="https://github.com/GiritClap/5inQ">깃허브</a>] <br>
+    <h3>🍊 Team>5inQ (RPG 게임) {LAB X}   [<a href="https://github.com/GiritClap/5inQ">깃허브</a>]</h3><br>
     <ul> 
         <li>팀을 구성해 하반기 동안 Unity Engine을 사용해 스토리가 있는 RPS게임을 개발하였습니다.</li>
         <li>기간 : 2024.07 ~ 진행중</li>
