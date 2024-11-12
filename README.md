@@ -66,7 +66,7 @@
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinneu&layout=compact)-->
 
-<h2>  :running: Activities </h2>
+<h2 align="center">  :running: Activities </h2>
 
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🏅 Stats</h2>
