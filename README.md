@@ -125,6 +125,9 @@
             </ul>
         </li>
     </ul>
+    <img src="https://github.com/user-attachments/assets/85507c79-a61d-47cc-9edd-ce7f2f770393" width="275" height="250">
+    <img src="https://github.com/user-attachments/assets/d8715b49-40c4-43e1-8753-6a2037653e95" width="275" height="250">
+    <img src="https://github.com/user-attachments/assets/8b630113-888e-4542-b003-73e15fe26233" width="275" height="250">
     <br>
     <h3>🥦 실시간 주식 시뮬레이션   [<a href="https://github.com/aejicheon/Stock-Simulation-Game">깃허브</a>]</h3> <br>
     <ul> 
@@ -235,9 +238,5 @@
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aeji0206">
     </a>
 </div>
-
-<img src="https://github.com/user-attachments/assets/85507c79-a61d-47cc-9edd-ce7f2f770393" width="275" height="250">
-<img src="https://github.com/user-attachments/assets/d8715b49-40c4-43e1-8753-6a2037653e95" width="275" height="250">
-<img src="https://github.com/user-attachments/assets/8b630113-888e-4542-b003-73e15fe26233" width="275" height="250">
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:ffbdd7,100:70ffee)
