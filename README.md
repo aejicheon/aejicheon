@@ -236,7 +236,8 @@
     </a>
 </div>
 
-![Uploading 식단.jpg…]()
+![식단](https://github.com/user-attachments/assets/85507c79-a61d-47cc-9edd-ce7f2f770393)
+
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:ffbdd7,100:70ffee)
