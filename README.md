@@ -65,15 +65,6 @@
 </div>
 
 <div align="center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">📚 Studying</h2>
-    <div align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />&nbsp
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-        <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-    </div>
-</div>
-
-<div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🏅 Stats</h2>
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=aejicheon&bg_color=30,91eae4,86A8E7&title_color=ffffff&text_color=ffffff" />
