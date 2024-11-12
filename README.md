@@ -9,10 +9,6 @@
     </div>
 </div>
 
-<div>
-    🍎 vr/ar 게임제작 기초
-</div>
-
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🛠️ Tech Stacks</h2>
     <div align="center">
@@ -75,9 +71,9 @@
 </div>
 
 <h2 align="center"> :computer: Projects </h2>
-<ul>
-    <li></li>
-</ul>
+<div>
+    🍎 vr/ar 게임제작 기초
+</div>
 
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🏅 Stats</h2>
