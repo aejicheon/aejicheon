@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">안녕하세요. 신입 개발자 천애지입니다.</h2>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🙌안녕하세요. 신입 개발자 천애지입니다.🙌</h2>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
         저는 배우고 경험하는 것을 항상 도전하는 개발자입니다.
     </div>
