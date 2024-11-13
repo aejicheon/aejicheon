@@ -72,7 +72,7 @@
     <ul>
         <li>2024 소프트웨어학부 제 6대 콘텐츠IT 학생회 'Clear' 부학회장</li>
         <li>2024 씨애랑 학술동아리 운영진 총부국장</li>
-        <li>한림대학교 GVE (Graphics & Virtual Env)연구실 학부연구생</li>
+        <li>2023한림대학교 GVE (Graphics & Virtual Env)연구실 학부연구생</li>
         <li>2023 소프트웨어학부 제 5대 콘텐츠IT 학생회 'Dream' 총부부장</li>
         <li>2023 멀티플렉스 c언어 멘토링 멘토</li>
     </ul>
