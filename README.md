@@ -80,7 +80,7 @@
 
 <h2 align="center"> :computer: Projects </h2>
 <div>
-    <h3>🍎 Team>최강애지팀 (캐쥬얼게임) {제목미정} [<a href="https://github.com/aejicheon/DrawLineMultyGame">깃허브</a>]</h3><br>
+    <h3>🍎 Team>최강애지팀 (캐쥬얼게임) {제목미정} [<a href="https://github.com/aejicheon/DrawingLineGame">깃허브</a>]</h3><br>
     <ul> 
         <li>팀을 구성해 하반기 동안 Unity Engine을 사용해 스토리가 있는 캐쥬얼게임을 개발하였습니다.</li>
         <li>기간 : 2024.07 ~ 진행중</li>
