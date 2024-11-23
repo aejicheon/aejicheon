@@ -209,7 +209,7 @@
             </ul>
     </ul>
     <br>
-    <h3>🍌 Unity Engine를 사용한 마법사 판타지 FPS 게임</h3> <br>
+    <h3>🍌 Unity Engine를 사용한 마법사 판타지 FPS 게임 [<a href="https://github.com/aejicheon/Fantasy-Shooting-Game">깃허브</a>]</h3><br>
     <ul>
         <li>2022-2 vr/ar 게임제작 기초 수업중 기말 프로젝트로 Unity Engine을 사용한 판타지 생존 FPS게임을 제작했습니다.</li>
         <li>기간 : 2022.10 ~ 2022.12</li>
