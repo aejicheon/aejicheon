@@ -194,7 +194,7 @@
             </ul>
     </ul>
     <br>
-    <h3>🥕 Unity Engine를 사용한 장애풀을 피해 목표 지점에 도달하는 캐주얼 게임   [<a href="https://github.com/aejicheon/ComputerGraphicsProject">깃허브</a>]</h3><br>
+    <h3>🥕 Unity Engine를 사용한 장애물을 피해 목표 지점에 도달하는 캐주얼 게임   [<a href="https://github.com/aejicheon/ComputerGraphicsProject">깃허브</a>]</h3><br>
     <ul>
         <li>2023-1 컴퓨터 그래픽스 수업중 기말 프로젝트로 Android Studio를 사용해 캐주얼 게임을 제작했습니다.</li>
         <li>기간 : 2023.04 ~ 2023.06</li>
