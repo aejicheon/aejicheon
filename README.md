@@ -97,7 +97,7 @@
     <br>
     <h3>🍊 Team>5inQ (RPG 게임) {LAB X}   [<a href="https://github.com/GiritClap/5inQ">깃허브</a>]</h3><br>
     <ul> 
-        <li>팀을 구성해 하반기 동안 Unity Engine을 사용해 스토리가 있는 RPS게임을 개발하였습니다.</li>
+        <li>팀을 구성해 하반기 동안 Unity Engine을 사용해 스토리가 있는 RPG게임을 개발하였습니다.</li>
         <li>기간 : 2024.07 ~ 진행중</li>
         <li>게임내용 : 실험체 A, B, C가 로봇들에게 실험을 당하는 자신에게 의문을 품고 의문을 풀며 스토리를 파악해 나아간다. 마지막 반전인 이야기가 나오며 이야기가 진행된다./</li>
         <li>기술스택 : Unity Engine, c#</li>
